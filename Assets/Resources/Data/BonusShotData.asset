@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd46a6aeef213b84b9d4624270b62dc6, type: 3}
+  m_Name: BonusShotData
+  m_EditorClassIdentifier: 
+  _id: 108
+  _type: 2
+  _cooldown: 0
+  _effect: {fileID: 0}
+  _presentNumber: 0
+  _hasPresentNumber: 0
+  checkBoxCenter: {x: 0, y: 0}
+  checkBoxSize: {x: 20, y: 20}
+  missilePrefab: {fileID: 1941211119430951607, guid: 860ae4a5059ff56449a73e9c8c6e42e0, type: 3}
+  targetLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  duration: 1
+  missileCount: 1
+  damageRate: 0.5
+  range: 12.5
+  bezierDelta: 5
+  bezierDelta2: 5

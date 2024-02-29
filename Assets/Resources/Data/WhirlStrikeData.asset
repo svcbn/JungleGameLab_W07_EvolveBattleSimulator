@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b87ea43452f9b48b67544fa41f47ae, type: 3}
+  m_Name: WhirlStrikeData
+  m_EditorClassIdentifier: 
+  _id: 11
+  _type: 1
+  _cooldown: 24
+  _effect: {fileID: 4295440196865602167, guid: a0661de1d0027544399fed12c668178b, type: 3}
+  _priority: 1
+  _isRestrictMoving: 1
+  _beforeDelay: 1.4
+  _afterDelay: 0.5
+  _damage: 29
+  knockbackInfo:
+    duration: 2
+    power: 30
+  _checkBoxCenter: {x: 0, y: 1.1677}
+  _checkBoxSize: {x: 30, y: 12.46936}
+  _hitBoxCenter: {x: 0, y: 1.1677}
+  _hitBoxSize: {x: 30, y: 12.46936}
+  _offset: {x: 0, y: 0}
+  _requireMP: 10

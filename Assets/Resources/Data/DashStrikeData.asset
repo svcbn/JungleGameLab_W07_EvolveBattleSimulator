@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 999fab61c96651242be20a3acebef12f, type: 3}
+  m_Name: DashStrikeData
+  m_EditorClassIdentifier: 
+  _id: 8
+  _type: 1
+  _cooldown: 10
+  _effect: {fileID: 4152039297200343374, guid: 9409f0784f6c8e64686008edcd08e208, type: 3}
+  _priority: 1
+  _isRestrictMoving: 1
+  _beforeDelay: 0.1
+  _afterDelay: 0.1
+  _damage: 8
+  knockbackInfo:
+    duration: 0
+    power: 0
+  _checkBoxCenter: {x: 0, y: 0}
+  _checkBoxSize: {x: 45, y: 5}
+  _hitBoxCenter: {x: 4, y: 0}
+  _hitBoxSize: {x: 15, y: 4}
+  _offset: {x: 0, y: 0}
+  _requireMP: 0
+  dashDistance: 9.5
+  faintDuration: 1.5

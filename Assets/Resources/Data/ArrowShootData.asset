@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae2ec97b6277d324eb38542a17cf8747, type: 3}
+  m_Name: ArrowShootData
+  m_EditorClassIdentifier: 
+  _id: 7
+  _type: 1
+  _cooldown: 3
+  _effect: {fileID: 0}
+  _priority: 3
+  _isRestrictMoving: 0
+  _beforeDelay: 0.1
+  _afterDelay: 0.5
+  _damage: 2
+  knockbackInfo:
+    duration: 0
+    power: 0
+  _checkBoxCenter: {x: 0, y: 0}
+  _checkBoxSize: {x: 40, y: 40}
+  _hitBoxCenter: {x: 0, y: 0}
+  _hitBoxSize: {x: 1, y: 1}
+  _offset: {x: 0, y: 0}
+  _requireMP: 1
+  missilePrefab: {fileID: 1941211119430951607, guid: 96898d6cec7f3dd45b40548a32379d22, type: 3}
+  targetLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  duration: 0.7
+  missileCount: 1
+  range: 40
+  bezierDelta: 1
+  bezierDelta2: 1

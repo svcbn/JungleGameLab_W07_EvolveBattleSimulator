@@ -1,0 +1,298 @@
+{
+  "Skills": [
+    {
+      "Id": 1,
+      "Name": "완벽한 타격",
+      "Description": "근접한 적에게 검을 휘둘러 적 최대체력의 9%만큼 피해를 입힌다.",
+      "SpriteName": "Slash"
+    },
+    {
+      "Id": 2,
+      "Name": "삼연격",
+      "Description": "근접한 적을 세 번 찔러 각 4의 피해를 입힌다.",
+      "SpriteName": "TripleStrike"
+    },
+    {
+      "Id": 3,
+      "Name": "블링크",
+      "Description": "적이 근접하면 순간이동해 적을 속박시키며 거리를 벌린다.",
+      "SpriteName": "TeleportEvacuate"
+    },
+    {
+      "Id": 4,
+      "Name": "완벽한 방어",
+      "Description": "방어 자세를 취해 잠시 모든 공격 피해를 무효화하고 군중 제어에 면역이 된다.",
+      "SpriteName": "Block"
+    },
+    {
+      "Id": 5,
+      "Name": "파멸의 일격",
+      "Description": "느리지만 강력한 일격으로 28의 피해를 입히고 밀어낸 뒤 기절시킨다.",
+      "SpriteName": "HeavyStrike"
+    },
+    {
+      "Id": 6,
+      "Name": "매직미사일",
+      "Description": "마법의 상징과도 같은 안정적인 공격 마법. 절대 피할 수 없는 다섯발의 미사일은 각각 2의 피해량을 입히고 적을 크게 밀쳐낸다.",
+      "SpriteName": "MagicMissile"
+    },
+    {
+      "Id": 7,
+      "Name": "견제 사격",
+      "Description": "빠른 연사력과 준수한 사거리를 가진 사냥꾼들의 원거리 기술. 명중한 적은 잠시 크게 느려진다.",
+      "SpriteName": "ArrowShoot"
+    },
+    {
+      "Id": 8,
+      "Name": "벽력일섬",
+      "Description": "번개와 같은 움직임으로 적을 관통하며 돌진한다. 경로의 적에게 8의 피해를 입히고 잠시 기절시킨다.",
+      "SpriteName": "DashStrike"
+    },
+    {
+      "Id": 9,
+      "Name": "혼 가르기",
+      "Description": "넓은 범위 내부의 영혼을 벤다. 적을 오래 기절시키고 적 최대체력의 19%만큼 피해를 입힌다.",
+      "SpriteName": "SoulStrike"
+    },
+    {
+      "Id": 10,
+      "Name": "별 부수기",
+      "Description": "이 무식한 대검 기술은 준비기간이 말도 안되게 느려서 자살행위나 다름없다. 하지만 성공한다면 적은 형체도 알아보기 어려울 것이다.",
+      "SpriteName": "GiganticStrike"
+    },
+    {
+      "Id": 11,
+      "Name": "회오리 베기",
+      "Description": "넓은 범위를 29의 피해량으로 타격할 수 있는 안정적인 검술. 적을 크게 밀쳐낸다.",
+      "SpriteName": "WhirlStrike"
+    },
+    {
+      "Id": 12,
+      "Name": "심장 가르기",
+      "Description": "절대 피할 수 없는 일격으로 적에게 17의 피해를 입히고 8만큼 회복한다.",
+      "SpriteName": "BloodStrike"
+    },
+    {
+      "Id": 13,
+      "Name": "독사의 송곳니",
+      "Description": "짧은 사거리를 가진 빠르고 간결한 단검 공격이지만 무서움은 그 독에 있다. 독은 중첩될수록 돌이킬 수 없는 피해를 매 초 입힌다.",
+      "SpriteName": "PoisonStrike"
+    },
+    {
+      "Id": 14,
+      "Name": "신속한 찌르기",
+      "Description": "매우 짧은 거리에서 찔러 7의 피해를 입히는 기술. 차원이 다른 공격속도가 그 자랑이다.",
+      "SpriteName": "FastStab"
+    },
+    {
+      "Id": 15,
+      "Name": "헤드샷",
+      "Description": "시전 시간이 길어 방해받기 쉬운 기술이지만 사거리 제한이 없고 40이라는 막강한 피해량을 자랑한다. 적을 크게 밀쳐낸다.",
+      "SpriteName": "SniperShot"
+    },
+    {
+      "Id": 16,
+      "Name": "암살자의 발걸음",
+      "Description": "공격을 무시하는 투명 상태가 된 채 적에게 접근한다. 투명 동안은 스킬을 사용하지 못한다.",
+      "SpriteName": "OffensiveCloak"
+    },
+    {
+      "Id": 17,
+      "Name": "투명망토",
+      "Description": "공격을 무시하는 투명 상태가 된 채 적으로부터 도망간다. 투명 상태에서는 스킬을 사용할 수 없다.",
+      "SpriteName": "DefensiveCloak"
+    },
+    {
+      "Id": 18,
+      "Name": "메테오 샤워",
+      "Description": "최강의 마법 중 하나. 가공할 위력의 운석들을 무작위 지점에 떨어트린다. 적을 밀쳐내고 기절시킨다.",
+      "SpriteName": "Meteor"
+    },
+    {
+      "Id": 19,
+      "Name": "빛의 심판",
+      "Description": "최강의 마법 중 하나. 파괴적인 광선 여럿이 하늘에서 떨어진다.",
+      "SpriteName": "SateliteBeam"
+    },
+    {
+      "Id": 20,
+      "Name": "삼중 파이어볼",
+      "Description": "화염구 3개를 발사해 각각 6의 피해를 입히고 적을 밀쳐낸다. 집중하고 있는 적을 방해하는데 용이하다.",
+      "SpriteName": "TripleFireball"
+    },
+    {
+      "Id": 21,
+      "Name": "얼음창",
+      "Description": "얼음창을 발사해 강한 피해를 입힌다. 적은 매우 느려진다.",
+      "SpriteName": "IceSpear"
+    },
+    {
+      "Id": 22,
+      "Name": "연막뿌리기",
+      "Description": "주변의 적을 기절시키고 도망친다.",
+      "SpriteName": "StunGrenade"
+    },
+    {
+      "Id": 23,
+      "Name": "얼음 정령",
+      "Description": "특정 위치에 머물며 주변 적을 끊임없이 공격하는 얼음 정령을 소환한다. 공격받은 적은 느려진다.",
+      "SpriteName": "SlowTurret"
+    },
+    {
+      "Id": 24,
+      "Name": "되받아치기: 뇌격",
+      "Description": "방어해 적의 공격을 막아내면 적을 향해 긴 거리를 돌진해 공격한다. 피격당한 적은 오랜시간 기절된다.",
+      "SpriteName": "DashCounter"
+    },
+    {
+      "Id": 25,
+      "Name": "되받아치기: 태산",
+      "Description": "방어해 적의 공격을 막아내면 주변 적을 멀리 밀쳐내고 오랜시간 느리게 만든다..",
+      "SpriteName": "KnockbackCounter"
+    },
+    {
+      "Id": 26,
+      "Name": "백스텝",
+      "Description": "삼십육계 줄행랑",
+      "SpriteName": "BackStep"
+    },
+    {
+      "Id": 27,
+      "Name": "순보",
+      "Description": "일정 거리 내 적의 뒤편으로 순간이동한다.",
+      "SpriteName": "SwiftStep"
+    },
+    {
+      "Id": 28,
+      "Name": "구르기",
+      "Description": "도망칠 때도, 돌격할 때도 유용한 기술",
+      "SpriteName": "Roll"
+    },
+    {
+      "Id": 29,
+      "Name": "치유의 기도",
+      "Description": "정신을 집중해 체력을 23 회복한다.",
+      "SpriteName": "HealingShower"
+    },
+    {
+      "Id": 101,
+      "Name": "마법학 전공책",
+      "Description": "액티브 스킬 사용마다 즉발적인 레이저 공격을 적에게 가해 4의 피해를 입힌다.",
+      "SpriteName": "MagicBook"
+    },
+    {
+      "Id": 102,
+      "Name": "과충전 술식",
+      "Description": "15초마다 다음 공격의 피해량이 두배가 된다.",
+      "SpriteName": "YinYangCore"
+    },
+    {
+      "Id": 103,
+      "Name": "준비만전",
+      "Description": "모든 공격 스킬 쿨타임 돈 채로 시작",
+      "SpriteName": "Transcendence"
+    },
+    {
+      "Id": 104,
+      "Name": "불꽃태양망토",
+      "Description": "최대 체력이 50 증가한다. 2초마다 주변 적에게 추가 체력의 3%만큼의 피해를 입힌다.",
+      "SpriteName": "SolarCloak"
+    },
+    {
+      "Id": 105,
+      "Name": "사신의 회중시계",
+      "Description": "25초 후 모든 대미지가 50%의 추가 피해를 입힌다. 그로부터 25초 후, 추가 피해량은 200%로 증가한다.",
+      "SpriteName": "Overclock"
+    },
+    {
+      "Id": 106,
+      "Name": "전쟁광",
+      "Description": "체력이 50% 이하인 동안 이동속도가 30%, 쿨타임 감소 속도가 50%, 피해량이 20% 상승한다.",
+      "SpriteName": "Berserker"
+    },
+    {
+      "Id": 107,
+      "Name": "얼어붙은 손",
+      "Description": "적 타격시 2초간 지속되는 둔화 효과를 부여한다.",
+      "SpriteName": "IceHands"
+    },
+    {
+      "Id": 108,
+      "Name": "지원 사격",
+      "Description": "일정 거리 너머의 적에게 타격시 타격 피해량의 50%의 피해를 주는 투사체를 추가로 발사한다.",
+      "SpriteName": "BonusShot"
+    },
+    {
+      "Id": 109,
+      "Name": "마나의 바람",
+      "Description": "마나 최대치 + 회복속도 증가 (회복속도 위주)",
+      "SpriteName": "ManaWind"
+    },
+    {
+      "Id": 110,
+      "Name": "마나 하트",
+      "Description": "마나 최대치 + 회복속도 증가 (최대치 위주)",
+      "SpriteName": "ManaPool"
+    },
+    {
+      "Id": 111,
+      "Name": "거인의 베리",
+      "Description": "최대 체력 + 이속 느려짐",
+      "SpriteName": "GiantBerry"
+    },
+    {
+      "Id": 112,
+      "Name": "마지막 희망",
+      "Description": "트린 궁",
+      "SpriteName": "LastHope"
+    },
+    {
+      "Id": 113,
+      "Name": "이기어검",
+      "Description": "이기어검 3개. 패배마다 1개 소실",
+      "SpriteName": "FishSwords"
+    },
+    {
+      "Id": 114,
+      "Name": "신성한 보호막",
+      "Description": "30초마다 1회 피해량을 무효화하는 방어막을 생성한다. 전투 시작 시 보호막을 가진 채로 시작한다.",
+      "SpriteName": "HolyBarrier"
+    },
+    {
+      "Id": 115,
+      "Name": "두꺼운 갑옷",
+      "Description": "피격마다 1만큼 피해를 덜 입는다.",
+      "SpriteName": "Protection"
+    },
+    {
+      "Id": 116,
+      "Name": "아그니의 발자국",
+      "Description": "지나간 자리에 불길",
+      "SpriteName": "FireSteps"
+    },
+    {
+      "Id": 117,
+      "Name": "불가항력",
+      "Description": "이동 속도 30% 증가 및 둔화에 면역이 된다.",
+      "SpriteName": "Unstoppable"
+    },
+    {
+      "Id": 118,
+      "Name": "겁쟁이  신발",
+      "Description": "피격마다 이동속도가 4초간 50% 증가한다.",
+      "SpriteName": "CowardBoots"
+    },
+    {
+      "Id": 119,
+      "Name": "약탈자 신발",
+      "Description": "타격마다 이동속도가 4초간 50% 증가한다.",
+      "SpriteName": "KillerBoots"
+    },
+    {
+      "Id": 120,
+      "Name": "가시 방패",
+      "Description": "최대 체력이 50 증가한다. 피해를 입을 때마다 적에게 자신의 추가 체력의 2%에 해당하는 피해를 입힌다.",
+      "SpriteName": "ThornShield"
+    }
+  ]
+}

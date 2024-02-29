@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa94bbe98a4166f4c9f95ea399c3a162, type: 3}
+  m_Name: HeavyStrikeData
+  m_EditorClassIdentifier: 
+  _id: 5
+  _type: 1
+  _cooldown: 22
+  _effect: {fileID: 4438304891251975632, guid: e27068f661a96e84b87aae11c884e34e, type: 3}
+  _priority: 1
+  _isRestrictMoving: 1
+  _beforeDelay: 1
+  _afterDelay: 0.5
+  _damage: 28
+  knockbackInfo:
+    duration: 0
+    power: 0
+  _checkBoxCenter: {x: 4, y: 2}
+  _checkBoxSize: {x: 10, y: 10}
+  _hitBoxCenter: {x: 4, y: 2}
+  _hitBoxSize: {x: 10, y: 12}
+  _offset: {x: 0, y: 0}
+  _requireMP: 0

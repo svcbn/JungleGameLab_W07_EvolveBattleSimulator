@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a12fa0e6f87c3b49b763479de00d47d, type: 3}
+  m_Name: BlockData
+  m_EditorClassIdentifier: 
+  _id: 4
+  _type: 0
+  _cooldown: 25
+  _effect: {fileID: 7180918455190229007, guid: bff970e8de41a004e8774b6d907b113f, type: 3}
+  _priority: 1
+  _isRestrictMoving: 1
+  _beforeDelay: 0.15
+  _afterDelay: 0.7
+  _damage: 0
+  knockbackInfo:
+    duration: 0
+    power: 0
+  _checkBoxCenter: {x: 0, y: 0}
+  _checkBoxSize: {x: 5, y: 3}
+  _hitBoxCenter: {x: 0, y: 0}
+  _hitBoxSize: {x: 1, y: 1}
+  _offset: {x: 0, y: 0}
+  _requireMP: 1
+  beforehandTime: 0.3
+  Duration: 2.1

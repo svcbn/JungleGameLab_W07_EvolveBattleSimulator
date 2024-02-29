@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c7e5efc624108244bc27e6d5ac6f2bf, type: 3}
+  m_Name: TripleStrikeData
+  m_EditorClassIdentifier: 
+  _id: 2
+  _type: 1
+  _cooldown: 7
+  _effect: {fileID: 5856407191537457485, guid: 2d8be82c267721f40b6d9d8a1685ecf8, type: 3}
+  _priority: 1
+  _isRestrictMoving: 1
+  _beforeDelay: 0.05
+  _afterDelay: 0.5
+  _damage: 4
+  knockbackInfo:
+    duration: 0
+    power: 0
+  _checkBoxCenter: {x: 4, y: 0}
+  _checkBoxSize: {x: 7, y: 3}
+  _hitBoxCenter: {x: 4, y: 0}
+  _hitBoxSize: {x: 7, y: 2}
+  _offset: {x: 4, y: 0}
+  _requireMP: 0
+  _delayBetween: 0.1

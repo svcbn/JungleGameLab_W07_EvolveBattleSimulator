@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e559455c29065434d87ce9a2bd6b6b42, type: 3}
+  m_Name: HealingShowerData
+  m_EditorClassIdentifier: 
+  _id: 29
+  _type: 0
+  _cooldown: 18
+  _effect: {fileID: 8544434443688463031, guid: 7fbb7b8dbd54bdf42b2b5875fe14b8bf, type: 3}
+  _priority: 3
+  _isRestrictMoving: 1
+  _beforeDelay: 3
+  _afterDelay: 0.5
+  _damage: 23
+  knockbackInfo:
+    duration: 0
+    power: 0
+  _checkBoxCenter: {x: 0, y: 0}
+  _checkBoxSize: {x: 10, y: 10}
+  _hitBoxCenter: {x: 0, y: 0}
+  _hitBoxSize: {x: 0, y: 0}
+  _offset: {x: 0, y: 0}
+  _requireMP: 0
+  _amount: 23
+  effectDuration: 0.5

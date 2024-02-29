@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5479e27a40e38a343bd503abd973fce9, type: 3}
+  m_Name: MagicMissileData
+  m_EditorClassIdentifier: 
+  _id: 6
+  _type: 1
+  _cooldown: 10
+  _effect: {fileID: 0}
+  _priority: 1
+  _isRestrictMoving: 1
+  _beforeDelay: 0.7
+  _afterDelay: 0.7
+  _damage: 2
+  knockbackInfo:
+    duration: 0
+    power: 0
+  _checkBoxCenter: {x: 0, y: 0}
+  _checkBoxSize: {x: 0, y: 0}
+  _hitBoxCenter: {x: 0, y: 0}
+  _hitBoxSize: {x: 1, y: 1}
+  _offset: {x: 0, y: 0}
+  _requireMP: 1
+  missilePrefab: {fileID: 1941211119430951607, guid: 79bd5dbc4da377c4d9e1de615713fa4b, type: 3}
+  targetLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  duration: 1
+  missileCount: 5
+  range: 22.5
+  bezierDelta: 10
+  bezierDelta2: 10

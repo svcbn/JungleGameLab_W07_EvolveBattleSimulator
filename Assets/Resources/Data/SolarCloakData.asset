@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eb5e17efbcfe514997005214bc5fa32, type: 3}
+  m_Name: SolarCloakData
+  m_EditorClassIdentifier: 
+  _id: 104
+  _type: 2
+  _cooldown: 2
+  _effect: {fileID: 8003859361267615221, guid: 9bf8164599798b44381c9494b5be6af1, type: 3}
+  _presentNumber: 0
+  _hasPresentNumber: 1
+  _hitBoxCenter: {x: 0, y: 0}
+  _hitBoxSize: {x: 30, y: 30}
+  _defaultEffect: {fileID: 3716787501423605702, guid: d40d075809b5a3f4ab6151c684aed3f3, type: 3}
+  _maxHp: 50
+  _damageScale: 0.029

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00cc6a1a06c762f4396f6405a207d9cb, type: 3}
+  m_Name: SlashData
+  m_EditorClassIdentifier: Assembly-CSharp::SlashData
+  _id: 1
+  _type: 1
+  _cooldown: 10
+  _effect: {fileID: 8370813354424140250, guid: 6f94f4460f3f91b45bcbb6d760e7c6f3, type: 3}
+  _priority: 1
+  _isRestrictMoving: 1
+  _beforeDelay: 0.2
+  _afterDelay: 0.5
+  _damage: 0
+  knockbackInfo:
+    duration: 0
+    power: 0
+  _checkBoxCenter: {x: 3, y: 0}
+  _checkBoxSize: {x: 4, y: 7}
+  _hitBoxCenter: {x: 3, y: 0}
+  _hitBoxSize: {x: 4, y: 7}
+  _offset: {x: 3, y: 0}
+  _requireMP: 0
+  _percentageDamage: 9

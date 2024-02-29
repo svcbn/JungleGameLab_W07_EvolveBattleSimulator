@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be7934bcd8fd0804f9ba2b42ccd19bc2, type: 3}
+  m_Name: TripleFireballData
+  m_EditorClassIdentifier: 
+  _id: 20
+  _type: 1
+  _cooldown: 13
+  _effect: {fileID: 0}
+  _priority: 1
+  _isRestrictMoving: 1
+  _beforeDelay: 1.2
+  _afterDelay: 0.7
+  _damage: 6
+  knockbackInfo:
+    duration: 0
+    power: 0
+  _checkBoxCenter: {x: 0, y: 0}
+  _checkBoxSize: {x: 0, y: 0}
+  _hitBoxCenter: {x: 0, y: 0}
+  _hitBoxSize: {x: 0, y: 0}
+  _offset: {x: 0, y: 0}
+  _requireMP: 0
+  prefab: {fileID: 8174002704321683750, guid: c9e691fadb0ad3c438ec479f2fd8e41b, type: 3}
+  speed: 10
+  delay: 0
+  targetIndex: 0
+  lifespan: 2
+  targetLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  range: 25
+  interval: 1

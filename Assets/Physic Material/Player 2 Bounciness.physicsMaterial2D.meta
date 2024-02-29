@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Physic Material/Player Bounciness.physicsMaterial2D.meta
+guid: 8264f993fd0100148a033931cae61f33
+NativeFormatImporter:
+========
+guid: ca68ef87f7ddb8e488a57450b39a1a0b
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> master:Assets/Scripts/Utils.meta
+  externalObjects: {}
+  mainObjectFileID: 6200000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d5d419ab57fe7a4c9ab46600f51ab3d, type: 3}
+  m_Name: HolyBarrierData
+  m_EditorClassIdentifier: 
+  _id: 114
+  _type: 2
+  _cooldown: 30
+  _effect: {fileID: 1204682418835529964, guid: 34fa1cb116e01ec4f86b5d740e7b2531, type: 3}
+  _presentNumber: 0
+  _hasPresentNumber: 0
