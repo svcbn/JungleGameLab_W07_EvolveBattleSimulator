@@ -13,7 +13,7 @@
 ---
 프로젝트 소개 - [Notion](https://svcbn.notion.site/Evolve-Battle-Simulator-3513f227fa194b19a39587f0de136076?pvs=4)  
 
-프로젝트 영상 - [Youtube]()  
+프로젝트 영상 - [Youtube](https://youtu.be/kewgBV1ws2A)  
 
 프로젝트 다운로드 - [itch.io](https://svcbn.itch.io/evolve-battle-simulator)   
 
