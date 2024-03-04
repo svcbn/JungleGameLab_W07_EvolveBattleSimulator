@@ -1,7 +1,8 @@
 # JungleGameLab W07  
 ##### Krafton Jungle GameLab Jam Project W07  
 
-<img src="Thumbnail.gif" width="60%"> 
+<img src="Thumbnail.gif" width="70%"> 
+<br/>
    
 - 프로젝트명 : EBS (Evolve Battle Simulator)
 - 장르 : 2D, 전략, 오토 배틀러
