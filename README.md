@@ -15,6 +15,6 @@
 
 프로젝트 영상 - [Youtube]()  
 
-프로젝트 다운로드 - [Download ZIP](Build.zip)   
+프로젝트 다운로드 - [itch.io](https://svcbn.itch.io/evolve-battle-simulator)   
 
 <br/>   
